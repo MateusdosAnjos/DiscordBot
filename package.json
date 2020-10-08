@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MateusdosAnjos/DiscordBot/issues"
   },
-  "homepage": "https://github.com/MateusdosAnjos/DiscordBot#readme"
+  "homepage": "https://github.com/MateusdosAnjos/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
 }
