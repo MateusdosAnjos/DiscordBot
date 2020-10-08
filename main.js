@@ -7,6 +7,10 @@ const prefix = '-';
 
 function on_ready() {
     console.log('DicordBot is ONLINE');
+    let now = new Date();
+    let target = new Date()
+    target.setSeconds(target.getSeconds() + 5);
+    setTimeout(() => {console.log('Reminder!');}, target - now);
 }
 
 function on_message_received(message) {
