@@ -5,10 +5,11 @@ const client = new Discord.Client();
 
 
 
-
-client.once('ready', ()=> {
+function on_ready() {
     console.log('DicordBot is ONLINE');
-})
+}
+
+client.once('ready', on_ready)
 
 
 
@@ -25,4 +26,4 @@ client.once('ready', ()=> {
 
 
 
-client.login('INSERT YOUR BOT TOKEN HERE!');
+client.login('NzYzNTcwMzI1MTQ4NDAxNjg1.X35oRw.SHtofmhm9cu75LaK2VZhnKMXkSQ');
