@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "This is a simple bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusdosAnjos/DiscordBot.git"
+  },
+  "author": "Mateus dos Anjos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusdosAnjos/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/MateusdosAnjos/DiscordBot#readme"
+}
