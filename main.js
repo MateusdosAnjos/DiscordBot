@@ -44,4 +44,4 @@ client.once('ready', on_ready);
 
 
 
-client.login('NzYzNTcwMzI1MTQ4NDAxNjg1.X35oRw.SHtofmhm9cu75LaK2VZhnKMXkSQ');
+client.login('Place your Bot token here! AND DONT PUSH TO GIT');
